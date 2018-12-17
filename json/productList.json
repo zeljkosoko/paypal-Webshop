@@ -1,0 +1,32 @@
+{
+    "productList":[
+        {
+            "id":"0",
+            "imageFile":"img/cell1.png",
+            "prodTitle":"Samsung AGH",
+            "prodDescription":"Samsung AGH is the best cell phone for this cell price category.",
+            "prodPrice":"100.00"
+        },
+        {
+            "id":"1",
+            "imageFile":"img/cell2.png",
+            "prodTitle":"Alcatec 105i",
+            "prodDescription":"Alcatel 105i is the most rentability cell phone according to price and quality.",
+            "prodPrice":"200.00"
+        },
+        {
+            "id":"2",
+            "imageFile":"img/cell3.png",
+            "prodTitle":"Sony Experia",
+            "prodDescription":"Sony Experia is the most fastest cell phone in the class",
+            "prodPrice":"322.00"
+        },
+        {
+            "id":"3",
+            "imageFile":"img/cell4.png",
+            "prodTitle":"Huawei Yi 2017",
+            "prodDescription":"Huawei Yi 2017 is the most quality cell phone in class-category criterium.",
+            "prodPrice":"400.00"
+        }
+    ]
+}
