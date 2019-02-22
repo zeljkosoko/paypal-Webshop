@@ -1,2 +1,2 @@
 # paypalwebshop
-Web based responsive application developed in html5, css3, bootstrap4 and javascript technology with paypal payment.
+Web based responsive application developed in JavaScript, Html5, Css3, Bootstrap4 with paypal payment.
